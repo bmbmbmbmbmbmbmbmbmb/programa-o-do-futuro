@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #123142;
+    color: white;
+
+}
+
+.container{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.conteudo{
+    max-width: 1000px;
+}
+.container img{
+
+    width: 600px;
+    border-radius: 20px;
+}
+
+p{
+    max-width: 700px;
+    padding-left:20px ;
+    text-align: justify;
+}
